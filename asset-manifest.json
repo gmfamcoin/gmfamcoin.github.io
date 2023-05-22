@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.dd14add9.css",
-    "main.js": "/static/js/main.35139af9.js",
+    "main.js": "/static/js/main.5a47d515.js",
     "static/js/787.79575106.chunk.js": "/static/js/787.79575106.chunk.js",
     "static/media/GMFAM.png": "/static/media/GMFAM.abefaa5bd1a418d1438c.png",
     "static/media/MontreuxJS-Rg.otf": "/static/media/MontreuxJS-Rg.ce855b720fd394cb5f62.otf",
     "static/media/MontreuxJS-XBd.otf": "/static/media/MontreuxJS-XBd.d221d7950e8a34343d5a.otf",
+    "static/media/cover.png": "/static/media/cover.fd0a83de1442a54fa0b1.png",
     "static/media/Bangers-Regular.ttf": "/static/media/Bangers-Regular.3463d59480ad41fc1d5e.ttf",
     "static/media/telegram.png": "/static/media/telegram.d34e967218119e55660c.png",
-    "static/media/tokenomics.jpg": "/static/media/tokenomics.9481290612846536da48.jpg",
+    "static/media/tokenomics.jpg": "/static/media/tokenomics.a920597f0a4e823d5bbc.jpg",
     "static/media/twitter.png": "/static/media/twitter.ec800d565fd941ce39af.png",
     "static/media/etherscan.png": "/static/media/etherscan.751e138f666f0e2bfa54.png",
     "index.html": "/index.html",
     "main.dd14add9.css.map": "/static/css/main.dd14add9.css.map",
-    "main.35139af9.js.map": "/static/js/main.35139af9.js.map",
+    "main.5a47d515.js.map": "/static/js/main.5a47d515.js.map",
     "787.79575106.chunk.js.map": "/static/js/787.79575106.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd14add9.css",
-    "static/js/main.35139af9.js"
+    "static/js/main.5a47d515.js"
   ]
 }
